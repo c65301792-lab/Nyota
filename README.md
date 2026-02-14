@@ -54,7 +54,3 @@ Paybill auto-filled with your provided numbers
 
 Auto-payment section scroll after calculation
 
-Beginner-friendly deployment structure
-
-
-You can now deploy backend to Render and frontend to Netlify using the included files and instructions.
